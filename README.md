@@ -1,1 +1,1 @@
-# CS229_deeplearning_ai_CS231
+# CNN_for_visual_recognition
