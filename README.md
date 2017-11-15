@@ -1,1 +1,1 @@
-# CNN_for_visual_recognition
+# functional programming - prolog - scheme - haskell
