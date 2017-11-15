@@ -1,1 +1,1 @@
-# functional programming - prolog - scheme - haskell
+# functional programming: prolog/scheme/haskell
